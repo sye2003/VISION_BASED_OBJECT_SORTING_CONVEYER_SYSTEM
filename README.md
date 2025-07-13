@@ -60,7 +60,7 @@ object-sorting-conveyor/
 ├── arduino_code.ino          # Arduino code to control servos
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
-└── media/                    # Images or demo videos (optional)
+└── media/                    # Images or demo videos 
 ```
 
 ## 🛠️ Hardware Requirements
@@ -90,7 +90,7 @@ python color_sorter.py
 4. Place colored objects (e.g., red, blue, green, yellow) in front of the webcam.
 5. Observe each object being detected and the corresponding servo activating.
 
-## 📽️ Demo (optional)
+## 📽️ Demo 
 
 > *Insert a GIF or YouTube link showing the system in action.*
 
