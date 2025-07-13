@@ -1,4 +1,3 @@
-
 # 📦 Project Title: **Color-Based Object Sorting Conveyor System**
 
 ## 🧠 Overview
